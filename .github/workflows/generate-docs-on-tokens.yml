@@ -24,7 +24,6 @@ jobs:
           commit_message: Update Token Docs
       - name: Deploy Docs
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/head/add-token-docs' }}
         with:
-          github_token: ${{ secrets.PUSH }}
+          github_token: ${{ secrets.DOC_SECRET }}
           publish_dir: ./build
