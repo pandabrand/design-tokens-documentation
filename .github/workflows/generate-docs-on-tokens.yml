@@ -22,3 +22,9 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Token Docs
+      - name: Deploy Docs
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/head/add-token-docs' }}
+        with:
+          github_token: ${{ secrets.PUSH }}
+          publish_dir: ./build
