@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://pandabrand.github.io',
-  baseUrl: '/',
+  baseUrl: '/design-tokens-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
