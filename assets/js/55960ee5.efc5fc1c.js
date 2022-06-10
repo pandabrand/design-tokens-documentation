@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_tokens_documentation=self.webpackChunkdesign_tokens_documentation||[]).push([[121],{8070:function(n){n.exports=JSON.parse('[{"name":"tokens","permalink":"/design-tokens-documentation/docs/tags/tokens","count":1}]')}}]);

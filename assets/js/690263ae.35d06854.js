@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_tokens_documentation=self.webpackChunkdesign_tokens_documentation||[]).push([[78],{9418:function(n){n.exports=JSON.parse('{"allTagsPath":"/design-tokens-documentation/blog/tags","slug":"/design-tokens-documentation/blog/tags/hola","name":"hola","count":1,"permalink":"/design-tokens-documentation/blog/tags/hola"}')}}]);

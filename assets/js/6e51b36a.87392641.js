@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_tokens_documentation=self.webpackChunkdesign_tokens_documentation||[]).push([[510],{8123:function(e){e.exports=JSON.parse('{"allTagsPath":"/design-tokens-documentation/blog/tags","slug":"/design-tokens-documentation/blog/tags/facebook","name":"facebook","count":1,"permalink":"/design-tokens-documentation/blog/tags/facebook"}')}}]);

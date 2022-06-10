@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_tokens_documentation=self.webpackChunkdesign_tokens_documentation||[]).push([[50],{2360:function(e){e.exports=JSON.parse('{"permalink":"/design-tokens-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_tokens_documentation=self.webpackChunkdesign_tokens_documentation||[]).push([[802],{9882:function(s){s.exports=JSON.parse('{"allTagsPath":"/design-tokens-documentation/blog/tags","slug":"/design-tokens-documentation/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/design-tokens-documentation/blog/tags/docusaurus"}')}}]);
